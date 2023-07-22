@@ -1,1 +1,3 @@
 # kjz
+
+Notes, thoughts; whatever…
