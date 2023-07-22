@@ -34,6 +34,11 @@ header * + * {
     margin-block-start: 0;
 }
 
+article a {
+    text-decoratio-thickness: 0.2ex;
+    text-decoration: underline;
+}
+
 header a {
     display: block;
     text-decoration: none;
